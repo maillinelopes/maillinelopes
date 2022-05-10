@@ -8,5 +8,9 @@ Sou apaixonado por Tecnologia, e por isso faço minha transição de carreira co
 - 🏆 Pós Graduada em Gestão Empresarial;
 - 💻 Atualmente procurando trabalhar na área de Back-End.
 
+<div align="center">
+  <a href="https://linkedin.com/in/maillinelopes">
+</div>
+
 
 
